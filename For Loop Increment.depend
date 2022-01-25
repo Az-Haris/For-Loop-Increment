@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643105322 source:c:\users\md alimuzzaman haris\desktop\c programme\for loop increment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
